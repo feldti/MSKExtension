@@ -6,11 +6,11 @@ baseline: spec
 		do: [
 			"Now the actual delivered packages"
 			spec
-				package: 'MSKExtension';
+				package: 'MSKExtensions';
 				yourself.
 
 			"Now the names for more specific loading"
 			spec
-				group: 'default' with: #('MSKExtension');
+				group: 'default' with: #('MSKExtensions');
 				yourself
 		]
