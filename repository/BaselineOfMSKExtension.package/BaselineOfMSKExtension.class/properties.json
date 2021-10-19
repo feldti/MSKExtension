@@ -1,0 +1,15 @@
+{
+	"category" : "BaselineOfMSKExtension",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Lf",
+		"Tab" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfMSKExtension",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
