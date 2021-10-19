@@ -1,0 +1,14 @@
+{
+	"category" : "MSKExtensions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MSKSystem",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

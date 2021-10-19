@@ -1,0 +1,20 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"asCSVFormatString" : "MSK 03/04/2017 16:49",
+		"asCSVGermanFormatString" : "MSK 03/04/2017 16:55",
+		"asInTZNamed:" : "MSK 12/02/2015 07:26",
+		"asInTZOffset:" : "MSK 12/02/2015 07:25",
+		"asLogSortableString" : "MSK 08/31/2016 11:35",
+		"minutesSinceMidnight" : "MSK 12/03/2015 03:19",
+		"tzMidnight" : "MSK 12/02/2015 07:22",
+		"tzMidnightStartOfMonth" : "MSK 02/03/2017 10:13",
+		"tzMidnightStartOfNextMonth" : "MSK 02/03/2017 10:13",
+		"tzMidnightStartOfNextYear" : "MSK 02/03/2017 10:23",
+		"tzMidnightStartOfYear" : "MSK 02/03/2017 10:23",
+		"tzStartOfHour" : "MSK 02/03/2017 10:17",
+		"tzStartOfNextHour" : "MSK 02/03/2017 10:20",
+		"tzTomorrowMidnight" : "MSK 12/02/2015 07:22",
+		"tzWithHours" : "MSK 12/03/2015 23:28",
+		"tzYesterdayMidnight" : "MSK 02/02/2021 08:34" } }

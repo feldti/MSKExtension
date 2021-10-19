@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"mskAppendFileExtensionWith:" : "MSK 09/28/2017 15:23",
+		"mskCSVCleanedText" : "MSK 04/15/2019 12:23",
+		"mskContainsOnlyDigits" : "MSK 01/18/2017 21:56",
+		"mskCopyUpToLastSubString:startingAt:" : "MSK 03/21/2016 13:24",
+		"mskExchangeFileExtensionWith:" : "MSK 09/28/2017 15:20",
+		"mskFilenameFromFullPathedFilename" : "MSK 06/27/2018 09:47",
+		"mskReplaceSemikolonWithSpace" : "MSK 09/06/2017 23:26",
+		"mskStartWithUppercase" : "MSK 02/14/2016 02:24" } }

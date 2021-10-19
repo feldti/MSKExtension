@@ -1,0 +1,4 @@
+*MSKExtensions
+mskRemoveAll
+
+	^self removeAll

@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"mskCheckFileEncoding:" : "MSK 09/29/2017 10:38",
+		"mskConvertFile:from:to:output:" : "MSK 09/28/2017 15:48",
+		"mskCopyDirectory:to:" : "MSK 04/15/2019 13:11",
+		"mskCopyFile:to:" : "MSK 06/11/2015 12:25",
+		"mskCurlJSONPost:data:" : "MSK 02/05/2020 16:55",
+		"mskCurlPost:data:" : "MSK 02/05/2020 16:47",
+		"mskFlattenUnzipFile:" : "MSK 05/26/2019 06:18",
+		"mskList7ZipFile:" : "MSK 09/28/2017 15:14",
+		"mskListZipFile:" : "MSK 02/26/2020 19:36",
+		"mskPerformOnServer:" : "MSK 08/17/2016 13:04",
+		"mskSetLinkName:in:to:" : "MSK 01/12/2021 00:52",
+		"mskUnzip7ZipFile:" : "MSK 08/17/2016 13:08",
+		"mskUnzipFile:" : "MSK 02/26/2020 17:58" },
+	"instance" : {
+		 } }
